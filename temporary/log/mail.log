@@ -1,0 +1,8 @@
+2016-07-05T01:16:40+00:00 DEBUG (7): [Zend] user1_test@bookmatchme.com <- email@domain.com
+2016-07-05T01:16:40+00:00 DEBUG (7): [System] (notify_friend_request) user1_test@bookmatchme.com <- email@domain.com
+2016-07-05T01:19:24+00:00 DEBUG (7): [Zend] user2_test@bookmatchme.com <- email@domain.com
+2016-07-05T01:19:24+00:00 DEBUG (7): [System] (notify_friend_accepted) user2_test@bookmatchme.com <- email@domain.com
+2016-07-05T01:25:10+00:00 DEBUG (7): [Zend] hani@bookmatchme.com <- email@domain.com
+2016-07-05T01:25:10+00:00 DEBUG (7): [System] (notify_friend_request) hani@bookmatchme.com <- email@domain.com
+2016-07-06T15:14:43+00:00 DEBUG (7): [Zend] user1_test@bookmatchme.com <- email@domain.com
+2016-07-06T15:14:43+00:00 DEBUG (7): [System] (notify_friend_accepted) user1_test@bookmatchme.com <- email@domain.com
