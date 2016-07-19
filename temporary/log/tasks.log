@@ -5126,3 +5126,562 @@
 2016-07-13T19:30:38+00:00 DEBUG (7): Execution Complete [774778060] [2104955633]
 2016-07-13T19:30:38+00:00 DEBUG (7): Execution Benchmark [774778060] [2104955633] : 0.762383 seconds
 2016-07-13T19:30:38+00:00 DEBUG (7): Trigger Benchmark [2104955633] : 1.401404 seconds
+2016-07-17T18:13:09+00:00 DEBUG (7): Trigger Check [1562139606] 
+2016-07-17T18:13:09+00:00 DEBUG (7): Trigger Pass [1562139606] 
+2016-07-17T18:13:09+00:00 DEBUG (7): Execution Check [285750846] [1562139606] 
+2016-07-17T18:13:09+00:00 DEBUG (7): Execution Pass [285750846] [1562139606] 
+2016-07-17T18:13:09+00:00 DEBUG (7): Task Execution Check [285750846] : Job Queue
+2016-07-17T18:13:09+00:00 DEBUG (7): Task Execution Pass [285750846] : Job Queue
+2016-07-17T18:13:10+00:00 DEBUG (7): Job Execution Loop Cancelled - Nothing to do
+2016-07-17T18:13:10+00:00 DEBUG (7): Task Execution Complete [285750846] : Job Queue
+2016-07-17T18:13:10+00:00 DEBUG (7): Task Execution Check [285750846] : Background Mailer
+2016-07-17T18:13:10+00:00 DEBUG (7): Task Execution Pass [285750846] : Background Mailer
+2016-07-17T18:13:10+00:00 DEBUG (7): Task Execution Complete [285750846] : Background Mailer
+2016-07-17T18:13:10+00:00 DEBUG (7): Task Execution Check [285750846] : Cache Prefetch
+2016-07-17T18:13:10+00:00 DEBUG (7): Task Execution Pass [285750846] : Cache Prefetch
+2016-07-17T18:13:10+00:00 DEBUG (7): Task Execution Complete [285750846] : Cache Prefetch
+2016-07-17T18:13:10+00:00 DEBUG (7): Execution Complete [285750846] [1562139606]
+2016-07-17T18:13:10+00:00 DEBUG (7): Execution Benchmark [285750846] [1562139606] : 0.901341 seconds
+2016-07-17T18:13:10+00:00 DEBUG (7): Trigger Benchmark [1562139606] : 1.645543 seconds
+2016-07-17T18:13:26+00:00 DEBUG (7): Trigger Check [1577635306] 
+2016-07-17T18:13:26+00:00 DEBUG (7): Trigger Check Failed - Timeout [1577635306] - 1468779206 < 1468779249
+2016-07-17T18:18:54+00:00 DEBUG (7): Trigger Check [532829333] 
+2016-07-17T18:18:54+00:00 DEBUG (7): Trigger Pass [532829333] 
+2016-07-17T18:18:55+00:00 DEBUG (7): Execution Check [1398945389] [532829333] 
+2016-07-17T18:18:55+00:00 DEBUG (7): Execution Pass [1398945389] [532829333] 
+2016-07-17T18:18:55+00:00 DEBUG (7): Task Execution Check [1398945389] : Job Queue
+2016-07-17T18:18:55+00:00 DEBUG (7): Task Execution Pass [1398945389] : Job Queue
+2016-07-17T18:18:55+00:00 DEBUG (7): Job Execution Loop Cancelled - Nothing to do
+2016-07-17T18:18:55+00:00 DEBUG (7): Task Execution Complete [1398945389] : Job Queue
+2016-07-17T18:18:55+00:00 DEBUG (7): Task Execution Check [1398945389] : Background Mailer
+2016-07-17T18:18:55+00:00 DEBUG (7): Task Execution Pass [1398945389] : Background Mailer
+2016-07-17T18:18:55+00:00 DEBUG (7): Task Execution Complete [1398945389] : Background Mailer
+2016-07-17T18:18:55+00:00 DEBUG (7): Task Execution Check [1398945389] : Cache Prefetch
+2016-07-17T18:18:55+00:00 DEBUG (7): Task Execution Pass [1398945389] : Cache Prefetch
+2016-07-17T18:18:55+00:00 DEBUG (7): Task Execution Complete [1398945389] : Cache Prefetch
+2016-07-17T18:18:55+00:00 DEBUG (7): Execution Complete [1398945389] [532829333]
+2016-07-17T18:18:55+00:00 DEBUG (7): Execution Benchmark [1398945389] [532829333] : 0.856331 seconds
+2016-07-17T18:18:56+00:00 DEBUG (7): Trigger Benchmark [532829333] : 1.299155 seconds
+2016-07-17T18:19:08+00:00 DEBUG (7): Trigger Check [1146856665] 
+2016-07-17T18:19:08+00:00 DEBUG (7): Trigger Check Failed - Timeout [1146856665] - 1468779548 < 1468779594
+2016-07-17T18:19:54+00:00 DEBUG (7): Trigger Check [477570278] 
+2016-07-17T18:19:54+00:00 DEBUG (7): Trigger Pass [477570278] 
+2016-07-17T18:19:54+00:00 DEBUG (7): Execution Check [943208983] [477570278] 
+2016-07-17T18:19:54+00:00 DEBUG (7): Execution Pass [943208983] [477570278] 
+2016-07-17T18:19:54+00:00 DEBUG (7): Task Execution Check [943208983] : Job Queue
+2016-07-17T18:19:54+00:00 DEBUG (7): Task Execution Pass [943208983] : Job Queue
+2016-07-17T18:19:55+00:00 DEBUG (7): Job Execution Loop Cancelled - Nothing to do
+2016-07-17T18:19:55+00:00 DEBUG (7): Task Execution Complete [943208983] : Job Queue
+2016-07-17T18:19:55+00:00 DEBUG (7): Task Execution Check [943208983] : Background Mailer
+2016-07-17T18:19:55+00:00 DEBUG (7): Task Execution Pass [943208983] : Background Mailer
+2016-07-17T18:19:55+00:00 DEBUG (7): Task Execution Complete [943208983] : Background Mailer
+2016-07-17T18:19:55+00:00 DEBUG (7): Task Execution Check [943208983] : Statistics
+2016-07-17T18:19:55+00:00 DEBUG (7): Task Execution Pass [943208983] : Statistics
+2016-07-17T18:19:57+00:00 DEBUG (7): Task Execution Complete [943208983] : Statistics
+2016-07-17T18:19:57+00:00 DEBUG (7): Execution Complete [943208983] [477570278]
+2016-07-17T18:19:57+00:00 DEBUG (7): Execution Benchmark [943208983] [477570278] : 2.432556 seconds
+2016-07-17T18:19:57+00:00 DEBUG (7): Trigger Benchmark [477570278] : 2.925416 seconds
+2016-07-17T18:20:08+00:00 DEBUG (7): Trigger Check [1474429165] 
+2016-07-17T18:20:08+00:00 DEBUG (7): Trigger Check Failed - Timeout [1474429165] - 1468779608 < 1468779654
+2016-07-17T18:25:11+00:00 DEBUG (7): Trigger Check [401305709] 
+2016-07-17T18:25:12+00:00 DEBUG (7): Trigger Pass [401305709] 
+2016-07-17T18:25:12+00:00 DEBUG (7): Execution Check [838686186] [401305709] 
+2016-07-17T18:25:12+00:00 DEBUG (7): Execution Pass [838686186] [401305709] 
+2016-07-17T18:25:12+00:00 DEBUG (7): Task Execution Check [838686186] : Job Queue
+2016-07-17T18:25:12+00:00 DEBUG (7): Task Execution Pass [838686186] : Job Queue
+2016-07-17T18:25:12+00:00 DEBUG (7): Job Execution Loop Cancelled - Nothing to do
+2016-07-17T18:25:12+00:00 DEBUG (7): Task Execution Complete [838686186] : Job Queue
+2016-07-17T18:25:12+00:00 DEBUG (7): Task Execution Check [838686186] : Background Mailer
+2016-07-17T18:25:12+00:00 DEBUG (7): Task Execution Pass [838686186] : Background Mailer
+2016-07-17T18:25:12+00:00 DEBUG (7): Task Execution Complete [838686186] : Background Mailer
+2016-07-17T18:25:12+00:00 DEBUG (7): Task Execution Check [838686186] : Cache Prefetch
+2016-07-17T18:25:13+00:00 DEBUG (7): Task Execution Pass [838686186] : Cache Prefetch
+2016-07-17T18:25:13+00:00 DEBUG (7): Task Execution Complete [838686186] : Cache Prefetch
+2016-07-17T18:25:13+00:00 DEBUG (7): Execution Complete [838686186] [401305709]
+2016-07-17T18:25:13+00:00 DEBUG (7): Execution Benchmark [838686186] [401305709] : 0.794206 seconds
+2016-07-17T18:25:13+00:00 DEBUG (7): Trigger Benchmark [401305709] : 1.338524 seconds
+2016-07-17T18:25:21+00:00 DEBUG (7): Trigger Check [768629379] 
+2016-07-17T18:25:21+00:00 DEBUG (7): Trigger Check Failed - Timeout [768629379] - 1468779921 < 1468779971
+2016-07-17T18:33:29+00:00 DEBUG (7): Trigger Check [1509386970] 
+2016-07-17T18:33:29+00:00 DEBUG (7): Trigger Pass [1509386970] 
+2016-07-17T18:33:29+00:00 DEBUG (7): Execution Check [249761140] [1509386970] 
+2016-07-17T18:33:29+00:00 DEBUG (7): Execution Pass [249761140] [1509386970] 
+2016-07-17T18:33:29+00:00 DEBUG (7): Task Execution Check [249761140] : Job Queue
+2016-07-17T18:33:29+00:00 DEBUG (7): Task Execution Pass [249761140] : Job Queue
+2016-07-17T18:33:29+00:00 DEBUG (7): Job Execution Loop Cancelled - Nothing to do
+2016-07-17T18:33:30+00:00 DEBUG (7): Task Execution Complete [249761140] : Job Queue
+2016-07-17T18:33:30+00:00 DEBUG (7): Task Execution Check [249761140] : Background Mailer
+2016-07-17T18:33:30+00:00 DEBUG (7): Task Execution Pass [249761140] : Background Mailer
+2016-07-17T18:33:30+00:00 DEBUG (7): Task Execution Complete [249761140] : Background Mailer
+2016-07-17T18:33:30+00:00 DEBUG (7): Task Execution Check [249761140] : Cache Prefetch
+2016-07-17T18:33:30+00:00 DEBUG (7): Task Execution Pass [249761140] : Cache Prefetch
+2016-07-17T18:33:30+00:00 DEBUG (7): Task Execution Complete [249761140] : Cache Prefetch
+2016-07-17T18:33:30+00:00 DEBUG (7): Execution Complete [249761140] [1509386970]
+2016-07-17T18:33:30+00:00 DEBUG (7): Execution Benchmark [249761140] [1509386970] : 0.765143 seconds
+2016-07-17T18:33:30+00:00 DEBUG (7): Trigger Benchmark [1509386970] : 1.298057 seconds
+2016-07-17T18:33:38+00:00 DEBUG (7): Trigger Check [1385676947] 
+2016-07-17T18:33:38+00:00 DEBUG (7): Trigger Check Failed - Timeout [1385676947] - 1468780418 < 1468780469
+2016-07-17T18:35:33+00:00 DEBUG (7): Trigger Check [1349042045] 
+2016-07-17T18:35:33+00:00 DEBUG (7): Trigger Pass [1349042045] 
+2016-07-17T18:35:33+00:00 DEBUG (7): Execution Check [711139557] [1349042045] 
+2016-07-17T18:35:33+00:00 DEBUG (7): Execution Pass [711139557] [1349042045] 
+2016-07-17T18:35:33+00:00 DEBUG (7): Task Execution Check [711139557] : Job Queue
+2016-07-17T18:35:33+00:00 DEBUG (7): Task Execution Pass [711139557] : Job Queue
+2016-07-17T18:35:33+00:00 DEBUG (7): Job Execution Loop Cancelled - Nothing to do
+2016-07-17T18:35:33+00:00 DEBUG (7): Task Execution Complete [711139557] : Job Queue
+2016-07-17T18:35:33+00:00 DEBUG (7): Task Execution Check [711139557] : Background Mailer
+2016-07-17T18:35:33+00:00 DEBUG (7): Task Execution Pass [711139557] : Background Mailer
+2016-07-17T18:35:34+00:00 DEBUG (7): Task Execution Complete [711139557] : Background Mailer
+2016-07-17T18:35:34+00:00 DEBUG (7): Task Execution Check [711139557] : Log Rotation
+2016-07-17T18:35:34+00:00 DEBUG (7): Task Execution Pass [711139557] : Log Rotation
+2016-07-17T18:35:34+00:00 DEBUG (7): Task Execution Complete [711139557] : Log Rotation
+2016-07-17T18:35:34+00:00 DEBUG (7): Execution Complete [711139557] [1349042045]
+2016-07-17T18:35:34+00:00 DEBUG (7): Execution Benchmark [711139557] [1349042045] : 0.774536 seconds
+2016-07-17T18:35:34+00:00 DEBUG (7): Trigger Benchmark [1349042045] : 1.226288 seconds
+2016-07-17T18:35:40+00:00 DEBUG (7): Trigger Check [2002093919] 
+2016-07-17T18:35:40+00:00 DEBUG (7): Trigger Check Failed - Timeout [2002093919] - 1468780540 < 1468780593
+2016-07-17T18:51:41+00:00 DEBUG (7): Trigger Check [2072966487] 
+2016-07-17T18:51:41+00:00 DEBUG (7): Trigger Pass [2072966487] 
+2016-07-17T18:51:41+00:00 DEBUG (7): Execution Check [1066051916] [2072966487] 
+2016-07-17T18:51:41+00:00 DEBUG (7): Execution Pass [1066051916] [2072966487] 
+2016-07-17T18:51:41+00:00 DEBUG (7): Task Execution Check [1066051916] : Job Queue
+2016-07-17T18:51:41+00:00 DEBUG (7): Task Execution Pass [1066051916] : Job Queue
+2016-07-17T18:51:41+00:00 DEBUG (7): Job Execution Loop Cancelled - Nothing to do
+2016-07-17T18:51:42+00:00 DEBUG (7): Task Execution Complete [1066051916] : Job Queue
+2016-07-17T18:51:42+00:00 DEBUG (7): Task Execution Check [1066051916] : Background Mailer
+2016-07-17T18:51:42+00:00 DEBUG (7): Task Execution Pass [1066051916] : Background Mailer
+2016-07-17T18:51:42+00:00 DEBUG (7): Task Execution Complete [1066051916] : Background Mailer
+2016-07-17T18:51:42+00:00 DEBUG (7): Task Execution Check [1066051916] : Cache Prefetch
+2016-07-17T18:51:42+00:00 DEBUG (7): Task Execution Pass [1066051916] : Cache Prefetch
+2016-07-17T18:51:42+00:00 DEBUG (7): Task Execution Complete [1066051916] : Cache Prefetch
+2016-07-17T18:51:42+00:00 DEBUG (7): Execution Complete [1066051916] [2072966487]
+2016-07-17T18:51:42+00:00 DEBUG (7): Execution Benchmark [1066051916] [2072966487] : 0.682321 seconds
+2016-07-17T18:51:42+00:00 DEBUG (7): Trigger Benchmark [2072966487] : 1.260701 seconds
+2016-07-17T18:51:52+00:00 DEBUG (7): Trigger Check [1394050541] 
+2016-07-17T18:51:52+00:00 DEBUG (7): Trigger Check Failed - Timeout [1394050541] - 1468781512 < 1468781561
+2016-07-17T19:02:32+00:00 DEBUG (7): Trigger Check [963443669] 
+2016-07-17T19:02:32+00:00 DEBUG (7): Trigger Pass [963443669] 
+2016-07-17T19:02:32+00:00 DEBUG (7): Execution Check [642908802] [963443669] 
+2016-07-17T19:02:32+00:00 DEBUG (7): Execution Pass [642908802] [963443669] 
+2016-07-17T19:02:32+00:00 DEBUG (7): Task Execution Check [642908802] : Job Queue
+2016-07-17T19:02:32+00:00 DEBUG (7): Task Execution Pass [642908802] : Job Queue
+2016-07-17T19:02:32+00:00 DEBUG (7): Job Execution Loop Cancelled - Nothing to do
+2016-07-17T19:02:33+00:00 DEBUG (7): Task Execution Complete [642908802] : Job Queue
+2016-07-17T19:02:33+00:00 DEBUG (7): Task Execution Check [642908802] : Background Mailer
+2016-07-17T19:02:33+00:00 DEBUG (7): Task Execution Pass [642908802] : Background Mailer
+2016-07-17T19:02:33+00:00 DEBUG (7): Task Execution Complete [642908802] : Background Mailer
+2016-07-17T19:02:33+00:00 DEBUG (7): Task Execution Check [642908802] : Cache Prefetch
+2016-07-17T19:02:33+00:00 DEBUG (7): Task Execution Pass [642908802] : Cache Prefetch
+2016-07-17T19:02:33+00:00 DEBUG (7): Task Execution Complete [642908802] : Cache Prefetch
+2016-07-17T19:02:33+00:00 DEBUG (7): Execution Complete [642908802] [963443669]
+2016-07-17T19:02:33+00:00 DEBUG (7): Execution Benchmark [642908802] [963443669] : 0.985215 seconds
+2016-07-17T19:02:33+00:00 DEBUG (7): Trigger Benchmark [963443669] : 1.479202 seconds
+2016-07-17T19:02:41+00:00 DEBUG (7): Trigger Check [406354178] 
+2016-07-17T19:02:41+00:00 DEBUG (7): Trigger Check Failed - Timeout [406354178] - 1468782161 < 1468782212
+2016-07-17T19:06:03+00:00 DEBUG (7): Trigger Check [650883503] 
+2016-07-17T19:06:03+00:00 DEBUG (7): Trigger Pass [650883503] 
+2016-07-17T19:06:03+00:00 DEBUG (7): Execution Check [490150743] [650883503] 
+2016-07-17T19:06:03+00:00 DEBUG (7): Execution Pass [490150743] [650883503] 
+2016-07-17T19:06:03+00:00 DEBUG (7): Task Execution Check [490150743] : Job Queue
+2016-07-17T19:06:04+00:00 DEBUG (7): Task Execution Pass [490150743] : Job Queue
+2016-07-17T19:06:04+00:00 DEBUG (7): Job Execution Loop Cancelled - Nothing to do
+2016-07-17T19:06:04+00:00 DEBUG (7): Task Execution Complete [490150743] : Job Queue
+2016-07-17T19:06:04+00:00 DEBUG (7): Task Execution Check [490150743] : Background Mailer
+2016-07-17T19:06:04+00:00 DEBUG (7): Task Execution Pass [490150743] : Background Mailer
+2016-07-17T19:06:04+00:00 DEBUG (7): Task Execution Complete [490150743] : Background Mailer
+2016-07-17T19:06:04+00:00 DEBUG (7): Task Execution Check [490150743] : Member Data Maintenance
+2016-07-17T19:06:04+00:00 DEBUG (7): Task Execution Pass [490150743] : Member Data Maintenance
+2016-07-17T19:06:04+00:00 DEBUG (7): Task Execution Complete [490150743] : Member Data Maintenance
+2016-07-17T19:06:04+00:00 DEBUG (7): Task Execution Check [490150743] : Payment Maintenance
+2016-07-17T19:06:04+00:00 DEBUG (7): Task Execution Pass [490150743] : Payment Maintenance
+2016-07-17T19:06:05+00:00 DEBUG (7): Task Execution Complete [490150743] : Payment Maintenance
+2016-07-17T19:06:05+00:00 DEBUG (7): Execution Complete [490150743] [650883503]
+2016-07-17T19:06:05+00:00 DEBUG (7): Execution Benchmark [490150743] [650883503] : 1.314744 seconds
+2016-07-17T19:06:05+00:00 DEBUG (7): Trigger Benchmark [650883503] : 1.825112 seconds
+2016-07-17T19:06:14+00:00 DEBUG (7): Trigger Check [2025122065] 
+2016-07-17T19:06:14+00:00 DEBUG (7): Trigger Check Failed - Timeout [2025122065] - 1468782374 < 1468782423
+2016-07-17T19:08:07+00:00 DEBUG (7): Trigger Check [139495181] 
+2016-07-17T19:08:07+00:00 DEBUG (7): Trigger Pass [139495181] 
+2016-07-17T19:08:08+00:00 DEBUG (7): Execution Check [836930840] [139495181] 
+2016-07-17T19:08:08+00:00 DEBUG (7): Execution Pass [836930840] [139495181] 
+2016-07-17T19:08:08+00:00 DEBUG (7): Task Execution Check [836930840] : Job Queue
+2016-07-17T19:08:08+00:00 DEBUG (7): Task Execution Pass [836930840] : Job Queue
+2016-07-17T19:08:08+00:00 DEBUG (7): Job Execution Loop Cancelled - Nothing to do
+2016-07-17T19:08:08+00:00 DEBUG (7): Task Execution Complete [836930840] : Job Queue
+2016-07-17T19:08:08+00:00 DEBUG (7): Task Execution Check [836930840] : Background Mailer
+2016-07-17T19:08:08+00:00 DEBUG (7): Task Execution Pass [836930840] : Background Mailer
+2016-07-17T19:08:09+00:00 DEBUG (7): Task Execution Complete [836930840] : Background Mailer
+2016-07-17T19:08:09+00:00 DEBUG (7): Task Execution Check [836930840] : Cache Prefetch
+2016-07-17T19:08:09+00:00 DEBUG (7): Task Execution Pass [836930840] : Cache Prefetch
+2016-07-17T19:08:09+00:00 DEBUG (7): Task Execution Complete [836930840] : Cache Prefetch
+2016-07-17T19:08:09+00:00 DEBUG (7): Execution Complete [836930840] [139495181]
+2016-07-17T19:08:09+00:00 DEBUG (7): Execution Benchmark [836930840] [139495181] : 0.802595 seconds
+2016-07-17T19:08:09+00:00 DEBUG (7): Trigger Benchmark [139495181] : 1.580052 seconds
+2016-07-17T19:08:17+00:00 DEBUG (7): Trigger Check [1807816494] 
+2016-07-17T19:08:17+00:00 DEBUG (7): Trigger Check Failed - Timeout [1807816494] - 1468782497 < 1468782547
+2016-07-17T19:10:23+00:00 DEBUG (7): Trigger Check [439528013] 
+2016-07-17T19:10:23+00:00 DEBUG (7): Trigger Pass [439528013] 
+2016-07-17T19:10:24+00:00 DEBUG (7): Execution Check [1130518971] [439528013] 
+2016-07-17T19:10:24+00:00 DEBUG (7): Execution Pass [1130518971] [439528013] 
+2016-07-17T19:10:24+00:00 DEBUG (7): Task Execution Check [1130518971] : Job Queue
+2016-07-17T19:10:24+00:00 DEBUG (7): Task Execution Pass [1130518971] : Job Queue
+2016-07-17T19:10:24+00:00 DEBUG (7): Job Execution Loop Cancelled - Nothing to do
+2016-07-17T19:10:24+00:00 DEBUG (7): Task Execution Complete [1130518971] : Job Queue
+2016-07-17T19:10:24+00:00 DEBUG (7): Task Execution Check [1130518971] : Background Mailer
+2016-07-17T19:10:25+00:00 DEBUG (7): Task Execution Pass [1130518971] : Background Mailer
+2016-07-17T19:10:25+00:00 DEBUG (7): Task Execution Complete [1130518971] : Background Mailer
+2016-07-17T19:10:25+00:00 DEBUG (7): Task Execution Check [1130518971] : Member Data Maintenance
+2016-07-17T19:10:25+00:00 DEBUG (7): Task Execution Pass [1130518971] : Member Data Maintenance
+2016-07-17T19:10:25+00:00 DEBUG (7): Task Execution Complete [1130518971] : Member Data Maintenance
+2016-07-17T19:10:25+00:00 DEBUG (7): Execution Complete [1130518971] [439528013]
+2016-07-17T19:10:25+00:00 DEBUG (7): Execution Benchmark [1130518971] [439528013] : 1.131678 seconds
+2016-07-17T19:10:25+00:00 DEBUG (7): Trigger Benchmark [439528013] : 1.740295 seconds
+2016-07-17T19:10:33+00:00 DEBUG (7): Trigger Check [1990367165] 
+2016-07-17T19:10:33+00:00 DEBUG (7): Trigger Check Failed - Timeout [1990367165] - 1468782633 < 1468782683
+2016-07-17T19:27:01+00:00 DEBUG (7): Trigger Check [425091601] 
+2016-07-17T19:27:01+00:00 DEBUG (7): Trigger Pass [425091601] 
+2016-07-17T19:27:01+00:00 DEBUG (7): Execution Check [1881132713] [425091601] 
+2016-07-17T19:27:01+00:00 DEBUG (7): Execution Pass [1881132713] [425091601] 
+2016-07-17T19:27:01+00:00 DEBUG (7): Task Execution Check [1881132713] : Job Queue
+2016-07-17T19:27:01+00:00 DEBUG (7): Task Execution Pass [1881132713] : Job Queue
+2016-07-17T19:27:01+00:00 DEBUG (7): Job Execution Loop Cancelled - Nothing to do
+2016-07-17T19:27:01+00:00 DEBUG (7): Task Execution Complete [1881132713] : Job Queue
+2016-07-17T19:27:01+00:00 DEBUG (7): Task Execution Check [1881132713] : Background Mailer
+2016-07-17T19:27:01+00:00 DEBUG (7): Task Execution Pass [1881132713] : Background Mailer
+2016-07-17T19:27:02+00:00 DEBUG (7): Task Execution Complete [1881132713] : Background Mailer
+2016-07-17T19:27:02+00:00 DEBUG (7): Task Execution Check [1881132713] : Cache Prefetch
+2016-07-17T19:27:02+00:00 DEBUG (7): Task Execution Pass [1881132713] : Cache Prefetch
+2016-07-17T19:27:02+00:00 DEBUG (7): Task Execution Complete [1881132713] : Cache Prefetch
+2016-07-17T19:27:02+00:00 DEBUG (7): Execution Complete [1881132713] [425091601]
+2016-07-17T19:27:02+00:00 DEBUG (7): Execution Benchmark [1881132713] [425091601] : 0.769149 seconds
+2016-07-17T19:27:02+00:00 DEBUG (7): Trigger Benchmark [425091601] : 1.303202 seconds
+2016-07-17T19:27:11+00:00 DEBUG (7): Trigger Check [1726534554] 
+2016-07-17T19:27:11+00:00 DEBUG (7): Trigger Check Failed - Timeout [1726534554] - 1468783631 < 1468783681
+2016-07-17T19:33:26+00:00 DEBUG (7): Trigger Check [688063962] 
+2016-07-17T19:33:26+00:00 DEBUG (7): Trigger Pass [688063962] 
+2016-07-17T19:33:26+00:00 DEBUG (7): Execution Check [1619463730] [688063962] 
+2016-07-17T19:33:26+00:00 DEBUG (7): Execution Pass [1619463730] [688063962] 
+2016-07-17T19:33:26+00:00 DEBUG (7): Task Execution Check [1619463730] : Job Queue
+2016-07-17T19:33:26+00:00 DEBUG (7): Task Execution Pass [1619463730] : Job Queue
+2016-07-17T19:33:26+00:00 DEBUG (7): Job Execution Loop Cancelled - Nothing to do
+2016-07-17T19:33:27+00:00 DEBUG (7): Task Execution Complete [1619463730] : Job Queue
+2016-07-17T19:33:27+00:00 DEBUG (7): Task Execution Check [1619463730] : Background Mailer
+2016-07-17T19:33:27+00:00 DEBUG (7): Task Execution Pass [1619463730] : Background Mailer
+2016-07-17T19:33:27+00:00 DEBUG (7): Task Execution Complete [1619463730] : Background Mailer
+2016-07-17T19:33:27+00:00 DEBUG (7): Task Execution Check [1619463730] : Cache Prefetch
+2016-07-17T19:33:27+00:00 DEBUG (7): Task Execution Pass [1619463730] : Cache Prefetch
+2016-07-17T19:33:27+00:00 DEBUG (7): Task Execution Complete [1619463730] : Cache Prefetch
+2016-07-17T19:33:27+00:00 DEBUG (7): Execution Complete [1619463730] [688063962]
+2016-07-17T19:33:27+00:00 DEBUG (7): Execution Benchmark [1619463730] [688063962] : 0.753556 seconds
+2016-07-17T19:33:27+00:00 DEBUG (7): Trigger Benchmark [688063962] : 1.225055 seconds
+2016-07-17T19:33:31+00:00 DEBUG (7): Trigger Check [1099618642] 
+2016-07-17T19:33:31+00:00 DEBUG (7): Trigger Check Failed - Timeout [1099618642] - 1468784011 < 1468784066
+2016-07-17T19:36:53+00:00 DEBUG (7): Trigger Check [1737904804] 
+2016-07-17T19:36:53+00:00 DEBUG (7): Trigger Pass [1737904804] 
+2016-07-17T19:36:53+00:00 DEBUG (7): Execution Check [2052350848] [1737904804] 
+2016-07-17T19:36:53+00:00 DEBUG (7): Execution Pass [2052350848] [1737904804] 
+2016-07-17T19:36:54+00:00 DEBUG (7): Task Execution Check [2052350848] : Job Queue
+2016-07-17T19:36:54+00:00 DEBUG (7): Task Execution Pass [2052350848] : Job Queue
+2016-07-17T19:36:54+00:00 DEBUG (7): Job Execution Loop Cancelled - Nothing to do
+2016-07-17T19:36:54+00:00 DEBUG (7): Task Execution Complete [2052350848] : Job Queue
+2016-07-17T19:36:54+00:00 DEBUG (7): Task Execution Check [2052350848] : Background Mailer
+2016-07-17T19:36:54+00:00 DEBUG (7): Task Execution Pass [2052350848] : Background Mailer
+2016-07-17T19:36:54+00:00 DEBUG (7): Task Execution Complete [2052350848] : Background Mailer
+2016-07-17T19:36:54+00:00 DEBUG (7): Task Execution Check [2052350848] : Member Data Maintenance
+2016-07-17T19:36:54+00:00 DEBUG (7): Task Execution Pass [2052350848] : Member Data Maintenance
+2016-07-17T19:36:54+00:00 DEBUG (7): Task Execution Complete [2052350848] : Member Data Maintenance
+2016-07-17T19:36:54+00:00 DEBUG (7): Execution Complete [2052350848] [1737904804]
+2016-07-17T19:36:54+00:00 DEBUG (7): Execution Benchmark [2052350848] [1737904804] : 0.787306 seconds
+2016-07-17T19:36:54+00:00 DEBUG (7): Trigger Benchmark [1737904804] : 1.317482 seconds
+2016-07-17T19:37:01+00:00 DEBUG (7): Trigger Check [665761024] 
+2016-07-17T19:37:01+00:00 DEBUG (7): Trigger Check Failed - Timeout [665761024] - 1468784221 < 1468784273
+2016-07-17T19:59:44+00:00 DEBUG (7): Trigger Check [824024697] 
+2016-07-17T19:59:44+00:00 DEBUG (7): Trigger Pass [824024697] 
+2016-07-17T19:59:45+00:00 DEBUG (7): Execution Check [709298983] [824024697] 
+2016-07-17T19:59:45+00:00 DEBUG (7): Execution Pass [709298983] [824024697] 
+2016-07-17T19:59:45+00:00 DEBUG (7): Task Execution Check [709298983] : Job Queue
+2016-07-17T19:59:45+00:00 DEBUG (7): Task Execution Pass [709298983] : Job Queue
+2016-07-17T19:59:45+00:00 DEBUG (7): Job Execution Loop Cancelled - Nothing to do
+2016-07-17T19:59:45+00:00 DEBUG (7): Task Execution Complete [709298983] : Job Queue
+2016-07-17T19:59:45+00:00 DEBUG (7): Task Execution Check [709298983] : Background Mailer
+2016-07-17T19:59:45+00:00 DEBUG (7): Task Execution Pass [709298983] : Background Mailer
+2016-07-17T19:59:45+00:00 DEBUG (7): Task Execution Complete [709298983] : Background Mailer
+2016-07-17T19:59:45+00:00 DEBUG (7): Task Execution Check [709298983] : Cache Prefetch
+2016-07-17T19:59:45+00:00 DEBUG (7): Task Execution Pass [709298983] : Cache Prefetch
+2016-07-17T19:59:46+00:00 DEBUG (7): Task Execution Complete [709298983] : Cache Prefetch
+2016-07-17T19:59:46+00:00 DEBUG (7): Execution Complete [709298983] [824024697]
+2016-07-17T19:59:46+00:00 DEBUG (7): Execution Benchmark [709298983] [824024697] : 0.855110 seconds
+2016-07-17T19:59:46+00:00 DEBUG (7): Trigger Benchmark [824024697] : 1.330684 seconds
+2016-07-17T19:59:52+00:00 DEBUG (7): Trigger Check [1099850409] 
+2016-07-17T19:59:52+00:00 DEBUG (7): Trigger Check Failed - Timeout [1099850409] - 1468785592 < 1468785644
+2016-07-17T20:07:54+00:00 DEBUG (7): Trigger Check [1969030288] 
+2016-07-17T20:07:54+00:00 DEBUG (7): Trigger Pass [1969030288] 
+2016-07-17T20:07:54+00:00 DEBUG (7): Execution Check [1179707570] [1969030288] 
+2016-07-17T20:07:54+00:00 DEBUG (7): Execution Pass [1179707570] [1969030288] 
+2016-07-17T20:07:54+00:00 DEBUG (7): Task Execution Check [1179707570] : Job Queue
+2016-07-17T20:07:55+00:00 DEBUG (7): Task Execution Pass [1179707570] : Job Queue
+2016-07-17T20:07:55+00:00 DEBUG (7): Job Execution Loop Cancelled - Nothing to do
+2016-07-17T20:07:55+00:00 DEBUG (7): Task Execution Complete [1179707570] : Job Queue
+2016-07-17T20:07:55+00:00 DEBUG (7): Task Execution Check [1179707570] : Background Mailer
+2016-07-17T20:07:55+00:00 DEBUG (7): Task Execution Pass [1179707570] : Background Mailer
+2016-07-17T20:07:55+00:00 DEBUG (7): Task Execution Complete [1179707570] : Background Mailer
+2016-07-17T20:07:55+00:00 DEBUG (7): Task Execution Check [1179707570] : Cache Prefetch
+2016-07-17T20:07:55+00:00 DEBUG (7): Task Execution Pass [1179707570] : Cache Prefetch
+2016-07-17T20:07:55+00:00 DEBUG (7): Task Execution Complete [1179707570] : Cache Prefetch
+2016-07-17T20:07:55+00:00 DEBUG (7): Execution Complete [1179707570] [1969030288]
+2016-07-17T20:07:55+00:00 DEBUG (7): Execution Benchmark [1179707570] [1969030288] : 0.967698 seconds
+2016-07-17T20:07:55+00:00 DEBUG (7): Trigger Benchmark [1969030288] : 1.487789 seconds
+2016-07-17T20:08:01+00:00 DEBUG (7): Trigger Check [510725395] 
+2016-07-17T20:08:01+00:00 DEBUG (7): Trigger Check Failed - Timeout [510725395] - 1468786081 < 1468786134
+2016-07-17T20:15:06+00:00 DEBUG (7): Trigger Check [476897308] 
+2016-07-17T20:15:06+00:00 DEBUG (7): Trigger Pass [476897308] 
+2016-07-17T20:15:06+00:00 DEBUG (7): Execution Check [1820981473] [476897308] 
+2016-07-17T20:15:06+00:00 DEBUG (7): Execution Pass [1820981473] [476897308] 
+2016-07-17T20:15:06+00:00 DEBUG (7): Task Execution Check [1820981473] : Job Queue
+2016-07-17T20:15:06+00:00 DEBUG (7): Task Execution Pass [1820981473] : Job Queue
+2016-07-17T20:15:07+00:00 DEBUG (7): Job Execution Loop Cancelled - Nothing to do
+2016-07-17T20:15:07+00:00 DEBUG (7): Task Execution Complete [1820981473] : Job Queue
+2016-07-17T20:15:07+00:00 DEBUG (7): Task Execution Check [1820981473] : Background Mailer
+2016-07-17T20:15:07+00:00 DEBUG (7): Task Execution Pass [1820981473] : Background Mailer
+2016-07-17T20:15:07+00:00 DEBUG (7): Task Execution Complete [1820981473] : Background Mailer
+2016-07-17T20:15:07+00:00 DEBUG (7): Task Execution Check [1820981473] : Cache Prefetch
+2016-07-17T20:15:07+00:00 DEBUG (7): Task Execution Pass [1820981473] : Cache Prefetch
+2016-07-17T20:15:07+00:00 DEBUG (7): Task Execution Complete [1820981473] : Cache Prefetch
+2016-07-17T20:15:07+00:00 DEBUG (7): Execution Complete [1820981473] [476897308]
+2016-07-17T20:15:07+00:00 DEBUG (7): Execution Benchmark [1820981473] [476897308] : 1.021993 seconds
+2016-07-17T20:15:07+00:00 DEBUG (7): Trigger Benchmark [476897308] : 1.497945 seconds
+2016-07-17T20:15:37+00:00 DEBUG (7): Trigger Check [528897237] 
+2016-07-17T20:15:37+00:00 DEBUG (7): Trigger Check Failed - Timeout [528897237] - 1468786537 < 1468786566
+2016-07-17T20:15:41+00:00 DEBUG (7): Trigger Check [869702830] 
+2016-07-17T20:15:41+00:00 DEBUG (7): Trigger Check Failed - Timeout [869702830] - 1468786541 < 1468786566
+2016-07-17T20:16:47+00:00 DEBUG (7): Trigger Check [1596184424] 
+2016-07-17T20:16:47+00:00 DEBUG (7): Trigger Pass [1596184424] 
+2016-07-17T20:16:47+00:00 DEBUG (7): Execution Check [1658940756] [1596184424] 
+2016-07-17T20:16:47+00:00 DEBUG (7): Execution Pass [1658940756] [1596184424] 
+2016-07-17T20:16:48+00:00 DEBUG (7): Task Execution Check [1658940756] : Job Queue
+2016-07-17T20:16:48+00:00 DEBUG (7): Task Execution Pass [1658940756] : Job Queue
+2016-07-17T20:16:48+00:00 DEBUG (7): Job Execution Loop Cancelled - Nothing to do
+2016-07-17T20:16:48+00:00 DEBUG (7): Task Execution Complete [1658940756] : Job Queue
+2016-07-17T20:16:48+00:00 DEBUG (7): Task Execution Check [1658940756] : Background Mailer
+2016-07-17T20:16:48+00:00 DEBUG (7): Task Execution Pass [1658940756] : Background Mailer
+2016-07-17T20:16:48+00:00 DEBUG (7): Task Execution Complete [1658940756] : Background Mailer
+2016-07-17T20:16:48+00:00 DEBUG (7): Task Execution Check [1658940756] : Member Data Maintenance
+2016-07-17T20:16:48+00:00 DEBUG (7): Task Execution Pass [1658940756] : Member Data Maintenance
+2016-07-17T20:16:48+00:00 DEBUG (7): Task Execution Complete [1658940756] : Member Data Maintenance
+2016-07-17T20:16:48+00:00 DEBUG (7): Execution Complete [1658940756] [1596184424]
+2016-07-17T20:16:48+00:00 DEBUG (7): Execution Benchmark [1658940756] [1596184424] : 0.786796 seconds
+2016-07-17T20:16:48+00:00 DEBUG (7): Trigger Benchmark [1596184424] : 1.258790 seconds
+2016-07-17T20:17:06+00:00 DEBUG (7): Trigger Check [1048596205] 
+2016-07-17T20:17:06+00:00 DEBUG (7): Trigger Check Failed - Timeout [1048596205] - 1468786626 < 1468786667
+2016-07-17T20:17:08+00:00 DEBUG (7): Trigger Check [1333597120] 
+2016-07-17T20:17:08+00:00 DEBUG (7): Trigger Check Failed - Timeout [1333597120] - 1468786628 < 1468786667
+2016-07-17T20:50:14+00:00 DEBUG (7): Trigger Check [674754072] 
+2016-07-17T20:50:14+00:00 DEBUG (7): Trigger Pass [674754072] 
+2016-07-17T20:50:14+00:00 DEBUG (7): Execution Check [637711028] [674754072] 
+2016-07-17T20:50:14+00:00 DEBUG (7): Execution Pass [637711028] [674754072] 
+2016-07-17T20:50:14+00:00 DEBUG (7): Task Execution Check [637711028] : Job Queue
+2016-07-17T20:50:14+00:00 DEBUG (7): Task Execution Pass [637711028] : Job Queue
+2016-07-17T20:50:14+00:00 DEBUG (7): Job Execution Loop Cancelled - Nothing to do
+2016-07-17T20:50:14+00:00 DEBUG (7): Task Execution Complete [637711028] : Job Queue
+2016-07-17T20:50:14+00:00 DEBUG (7): Task Execution Check [637711028] : Background Mailer
+2016-07-17T20:50:15+00:00 DEBUG (7): Task Execution Pass [637711028] : Background Mailer
+2016-07-17T20:50:15+00:00 DEBUG (7): Task Execution Complete [637711028] : Background Mailer
+2016-07-17T20:50:15+00:00 DEBUG (7): Task Execution Check [637711028] : Cache Prefetch
+2016-07-17T20:50:15+00:00 DEBUG (7): Task Execution Pass [637711028] : Cache Prefetch
+2016-07-17T20:50:15+00:00 DEBUG (7): Task Execution Complete [637711028] : Cache Prefetch
+2016-07-17T20:50:15+00:00 DEBUG (7): Execution Complete [637711028] [674754072]
+2016-07-17T20:50:15+00:00 DEBUG (7): Execution Benchmark [637711028] [674754072] : 0.960623 seconds
+2016-07-17T20:50:15+00:00 DEBUG (7): Trigger Benchmark [674754072] : 1.518253 seconds
+2016-07-17T20:50:17+00:00 DEBUG (7): Trigger Check [491632372] 
+2016-07-17T20:50:17+00:00 DEBUG (7): Trigger Check Failed - Timeout [491632372] - 1468788617 < 1468788674
+2016-07-17T20:52:18+00:00 DEBUG (7): Trigger Check [1733918779] 
+2016-07-17T20:52:18+00:00 DEBUG (7): Trigger Pass [1733918779] 
+2016-07-17T20:52:18+00:00 DEBUG (7): Execution Check [717140523] [1733918779] 
+2016-07-17T20:52:18+00:00 DEBUG (7): Execution Pass [717140523] [1733918779] 
+2016-07-17T20:52:18+00:00 DEBUG (7): Task Execution Check [717140523] : Job Queue
+2016-07-17T20:52:18+00:00 DEBUG (7): Task Execution Pass [717140523] : Job Queue
+2016-07-17T20:52:18+00:00 DEBUG (7): Job Execution Loop Cancelled - Nothing to do
+2016-07-17T20:52:19+00:00 DEBUG (7): Task Execution Complete [717140523] : Job Queue
+2016-07-17T20:52:19+00:00 DEBUG (7): Task Execution Check [717140523] : Background Mailer
+2016-07-17T20:52:19+00:00 DEBUG (7): Task Execution Pass [717140523] : Background Mailer
+2016-07-17T20:52:19+00:00 DEBUG (7): Task Execution Complete [717140523] : Background Mailer
+2016-07-17T20:52:19+00:00 DEBUG (7): Task Execution Check [717140523] : Log Rotation
+2016-07-17T20:52:19+00:00 DEBUG (7): Task Execution Pass [717140523] : Log Rotation
+2016-07-17T20:52:19+00:00 DEBUG (7): Task Execution Complete [717140523] : Log Rotation
+2016-07-17T20:52:19+00:00 DEBUG (7): Execution Complete [717140523] [1733918779]
+2016-07-17T20:52:19+00:00 DEBUG (7): Execution Benchmark [717140523] [1733918779] : 0.697394 seconds
+2016-07-17T20:52:19+00:00 DEBUG (7): Trigger Benchmark [1733918779] : 1.124065 seconds
+2016-07-17T20:57:39+00:00 DEBUG (7): Trigger Check [1288938534] 
+2016-07-17T20:57:39+00:00 DEBUG (7): Trigger Pass [1288938534] 
+2016-07-17T20:57:39+00:00 DEBUG (7): Execution Check [648911676] [1288938534] 
+2016-07-17T20:57:39+00:00 DEBUG (7): Execution Pass [648911676] [1288938534] 
+2016-07-17T20:57:39+00:00 DEBUG (7): Task Execution Check [648911676] : Job Queue
+2016-07-17T20:57:39+00:00 DEBUG (7): Task Execution Pass [648911676] : Job Queue
+2016-07-17T20:57:39+00:00 DEBUG (7): Job Execution Loop Cancelled - Nothing to do
+2016-07-17T20:57:39+00:00 DEBUG (7): Task Execution Complete [648911676] : Job Queue
+2016-07-17T20:57:39+00:00 DEBUG (7): Task Execution Check [648911676] : Background Mailer
+2016-07-17T20:57:40+00:00 DEBUG (7): Task Execution Pass [648911676] : Background Mailer
+2016-07-17T20:57:40+00:00 DEBUG (7): Task Execution Complete [648911676] : Background Mailer
+2016-07-17T20:57:40+00:00 DEBUG (7): Task Execution Check [648911676] : Cache Prefetch
+2016-07-17T20:57:40+00:00 DEBUG (7): Task Execution Pass [648911676] : Cache Prefetch
+2016-07-17T20:57:40+00:00 DEBUG (7): Task Execution Complete [648911676] : Cache Prefetch
+2016-07-17T20:57:40+00:00 DEBUG (7): Execution Complete [648911676] [1288938534]
+2016-07-17T20:57:40+00:00 DEBUG (7): Execution Benchmark [648911676] [1288938534] : 0.797028 seconds
+2016-07-17T20:57:40+00:00 DEBUG (7): Trigger Benchmark [1288938534] : 1.353688 seconds
+2016-07-17T20:57:43+00:00 DEBUG (7): Trigger Check [718900391] 
+2016-07-17T20:57:43+00:00 DEBUG (7): Trigger Check Failed - Timeout [718900391] - 1468789063 < 1468789119
+2016-07-18T05:14:42+00:00 DEBUG (7): Trigger Check [1304310786] 
+2016-07-18T05:14:42+00:00 DEBUG (7): Trigger Pass [1304310786] 
+2016-07-18T05:14:42+00:00 DEBUG (7): Execution Check [1738382757] [1304310786] 
+2016-07-18T05:14:42+00:00 DEBUG (7): Execution Pass [1738382757] [1304310786] 
+2016-07-18T05:14:42+00:00 DEBUG (7): Task Execution Check [1738382757] : Job Queue
+2016-07-18T05:14:43+00:00 DEBUG (7): Task Execution Pass [1738382757] : Job Queue
+2016-07-18T05:14:43+00:00 DEBUG (7): Job Execution Loop Cancelled - Nothing to do
+2016-07-18T05:14:43+00:00 DEBUG (7): Task Execution Complete [1738382757] : Job Queue
+2016-07-18T05:14:43+00:00 DEBUG (7): Task Execution Check [1738382757] : Background Mailer
+2016-07-18T05:14:43+00:00 DEBUG (7): Task Execution Pass [1738382757] : Background Mailer
+2016-07-18T05:14:43+00:00 DEBUG (7): Task Execution Complete [1738382757] : Background Mailer
+2016-07-18T05:14:43+00:00 DEBUG (7): Task Execution Check [1738382757] : Cache Prefetch
+2016-07-18T05:14:43+00:00 DEBUG (7): Task Execution Pass [1738382757] : Cache Prefetch
+2016-07-18T05:14:43+00:00 DEBUG (7): Task Execution Complete [1738382757] : Cache Prefetch
+2016-07-18T05:14:43+00:00 DEBUG (7): Execution Complete [1738382757] [1304310786]
+2016-07-18T05:14:43+00:00 DEBUG (7): Execution Benchmark [1738382757] [1304310786] : 0.866774 seconds
+2016-07-18T05:14:43+00:00 DEBUG (7): Trigger Benchmark [1304310786] : 1.485474 seconds
+2016-07-18T05:14:47+00:00 DEBUG (7): Trigger Check [1886398704] 
+2016-07-18T05:14:47+00:00 DEBUG (7): Trigger Check Failed - Timeout [1886398704] - 1468818887 < 1468818942
+2016-07-19T03:42:20+00:00 DEBUG (7): Trigger Check [1433444953] 
+2016-07-19T03:42:20+00:00 DEBUG (7): Trigger Pass [1433444953] 
+2016-07-19T03:42:21+00:00 DEBUG (7): Execution Check [2025377631] [1433444953] 
+2016-07-19T03:42:21+00:00 DEBUG (7): Execution Pass [2025377631] [1433444953] 
+2016-07-19T03:42:21+00:00 DEBUG (7): Task Execution Check [2025377631] : Job Queue
+2016-07-19T03:42:21+00:00 DEBUG (7): Task Execution Pass [2025377631] : Job Queue
+2016-07-19T03:42:21+00:00 DEBUG (7): Job Execution Loop Cancelled - Nothing to do
+2016-07-19T03:42:21+00:00 DEBUG (7): Task Execution Complete [2025377631] : Job Queue
+2016-07-19T03:42:21+00:00 DEBUG (7): Task Execution Check [2025377631] : Background Mailer
+2016-07-19T03:42:21+00:00 DEBUG (7): Task Execution Pass [2025377631] : Background Mailer
+2016-07-19T03:42:21+00:00 DEBUG (7): Task Execution Complete [2025377631] : Background Mailer
+2016-07-19T03:42:21+00:00 DEBUG (7): Task Execution Check [2025377631] : Cache Prefetch
+2016-07-19T03:42:21+00:00 DEBUG (7): Task Execution Pass [2025377631] : Cache Prefetch
+2016-07-19T03:42:21+00:00 DEBUG (7): Task Execution Complete [2025377631] : Cache Prefetch
+2016-07-19T03:42:21+00:00 DEBUG (7): Execution Complete [2025377631] [1433444953]
+2016-07-19T03:42:21+00:00 DEBUG (7): Execution Benchmark [2025377631] [1433444953] : 0.804527 seconds
+2016-07-19T03:42:22+00:00 DEBUG (7): Trigger Benchmark [1433444953] : 1.530349 seconds
+2016-07-19T03:42:29+00:00 DEBUG (7): Trigger Check [713817438] 
+2016-07-19T03:42:29+00:00 DEBUG (7): Trigger Check Failed - Timeout [713817438] - 1468899749 < 1468899800
+2016-07-19T03:46:14+00:00 DEBUG (7): Trigger Check [593757451] 
+2016-07-19T03:46:14+00:00 DEBUG (7): Trigger Pass [593757451] 
+2016-07-19T03:46:14+00:00 DEBUG (7): Execution Check [481042099] [593757451] 
+2016-07-19T03:46:14+00:00 DEBUG (7): Execution Pass [481042099] [593757451] 
+2016-07-19T03:46:14+00:00 DEBUG (7): Task Execution Check [481042099] : Job Queue
+2016-07-19T03:46:15+00:00 DEBUG (7): Task Execution Pass [481042099] : Job Queue
+2016-07-19T03:46:15+00:00 DEBUG (7): Job Execution Loop Cancelled - Nothing to do
+2016-07-19T03:46:15+00:00 DEBUG (7): Task Execution Complete [481042099] : Job Queue
+2016-07-19T03:46:15+00:00 DEBUG (7): Task Execution Check [481042099] : Background Mailer
+2016-07-19T03:46:15+00:00 DEBUG (7): Task Execution Pass [481042099] : Background Mailer
+2016-07-19T03:46:15+00:00 DEBUG (7): Task Execution Complete [481042099] : Background Mailer
+2016-07-19T03:46:15+00:00 DEBUG (7): Task Execution Check [481042099] : Statistics
+2016-07-19T03:46:15+00:00 DEBUG (7): Task Execution Pass [481042099] : Statistics
+2016-07-19T03:46:18+00:00 DEBUG (7): Task Execution Complete [481042099] : Statistics
+2016-07-19T03:46:18+00:00 DEBUG (7): Execution Complete [481042099] [593757451]
+2016-07-19T03:46:18+00:00 DEBUG (7): Execution Benchmark [481042099] [593757451] : 3.924975 seconds
+2016-07-19T03:46:18+00:00 DEBUG (7): Trigger Benchmark [593757451] : 4.427544 seconds
+2016-07-19T03:46:24+00:00 DEBUG (7): Trigger Check [625006749] 
+2016-07-19T03:46:24+00:00 DEBUG (7): Trigger Check Failed - Timeout [625006749] - 1468899984 < 1468900034
+2016-07-19T03:47:27+00:00 DEBUG (7): Trigger Check [461613444] 
+2016-07-19T03:47:27+00:00 DEBUG (7): Trigger Pass [461613444] 
+2016-07-19T03:47:27+00:00 DEBUG (7): Execution Check [1415013435] [461613444] 
+2016-07-19T03:47:27+00:00 DEBUG (7): Execution Pass [1415013435] [461613444] 
+2016-07-19T03:47:27+00:00 DEBUG (7): Task Execution Check [1415013435] : Job Queue
+2016-07-19T03:47:27+00:00 DEBUG (7): Task Execution Pass [1415013435] : Job Queue
+2016-07-19T03:47:27+00:00 DEBUG (7): Job Execution Loop Cancelled - Nothing to do
+2016-07-19T03:47:27+00:00 DEBUG (7): Task Execution Complete [1415013435] : Job Queue
+2016-07-19T03:47:27+00:00 DEBUG (7): Task Execution Check [1415013435] : Background Mailer
+2016-07-19T03:47:27+00:00 DEBUG (7): Task Execution Pass [1415013435] : Background Mailer
+2016-07-19T03:47:28+00:00 DEBUG (7): Task Execution Complete [1415013435] : Background Mailer
+2016-07-19T03:47:28+00:00 DEBUG (7): Task Execution Check [1415013435] : Cache Prefetch
+2016-07-19T03:47:28+00:00 DEBUG (7): Task Execution Pass [1415013435] : Cache Prefetch
+2016-07-19T03:47:28+00:00 DEBUG (7): Task Execution Complete [1415013435] : Cache Prefetch
+2016-07-19T03:47:28+00:00 DEBUG (7): Execution Complete [1415013435] [461613444]
+2016-07-19T03:47:28+00:00 DEBUG (7): Execution Benchmark [1415013435] [461613444] : 0.641249 seconds
+2016-07-19T03:47:28+00:00 DEBUG (7): Trigger Benchmark [461613444] : 1.269270 seconds
+2016-07-19T03:47:34+00:00 DEBUG (7): Trigger Check [2059726210] 
+2016-07-19T03:47:34+00:00 DEBUG (7): Trigger Check Failed - Timeout [2059726210] - 1468900054 < 1468900107
+2016-07-19T03:49:42+00:00 DEBUG (7): Trigger Check [1707916152] 
+2016-07-19T03:49:42+00:00 DEBUG (7): Trigger Pass [1707916152] 
+2016-07-19T03:49:42+00:00 DEBUG (7): Execution Check [1989916383] [1707916152] 
+2016-07-19T03:49:42+00:00 DEBUG (7): Execution Pass [1989916383] [1707916152] 
+2016-07-19T03:49:42+00:00 DEBUG (7): Task Execution Check [1989916383] : Job Queue
+2016-07-19T03:49:42+00:00 DEBUG (7): Task Execution Pass [1989916383] : Job Queue
+2016-07-19T03:49:42+00:00 DEBUG (7): Job Execution Loop Cancelled - Nothing to do
+2016-07-19T03:49:42+00:00 DEBUG (7): Task Execution Complete [1989916383] : Job Queue
+2016-07-19T03:49:42+00:00 DEBUG (7): Task Execution Check [1989916383] : Background Mailer
+2016-07-19T03:49:42+00:00 DEBUG (7): Task Execution Pass [1989916383] : Background Mailer
+2016-07-19T03:49:43+00:00 DEBUG (7): Task Execution Complete [1989916383] : Background Mailer
+2016-07-19T03:49:43+00:00 DEBUG (7): Task Execution Check [1989916383] : Log Rotation
+2016-07-19T03:49:43+00:00 DEBUG (7): Task Execution Pass [1989916383] : Log Rotation
+2016-07-19T03:49:43+00:00 DEBUG (7): Task Execution Complete [1989916383] : Log Rotation
+2016-07-19T03:49:43+00:00 DEBUG (7): Execution Complete [1989916383] [1707916152]
+2016-07-19T03:49:43+00:00 DEBUG (7): Execution Benchmark [1989916383] [1707916152] : 0.714866 seconds
+2016-07-19T03:49:43+00:00 DEBUG (7): Trigger Benchmark [1707916152] : 1.196370 seconds
+2016-07-19T03:49:49+00:00 DEBUG (7): Trigger Check [1351680127] 
+2016-07-19T03:49:49+00:00 DEBUG (7): Trigger Check Failed - Timeout [1351680127] - 1468900189 < 1468900242
+2016-07-19T03:50:40+00:00 DEBUG (7): Trigger Check [620297040] 
+2016-07-19T03:50:40+00:00 DEBUG (7): Trigger Check Failed - Timeout [620297040] - 1468900240 < 1468900242
+2016-07-19T03:50:47+00:00 DEBUG (7): Trigger Check [1016705946] 
+2016-07-19T03:50:47+00:00 DEBUG (7): Trigger Pass [1016705946] 
+2016-07-19T03:50:47+00:00 DEBUG (7): Execution Check [397326817] [1016705946] 
+2016-07-19T03:50:47+00:00 DEBUG (7): Execution Pass [397326817] [1016705946] 
+2016-07-19T03:50:48+00:00 DEBUG (7): Task Execution Check [397326817] : Job Queue
+2016-07-19T03:50:48+00:00 DEBUG (7): Task Execution Pass [397326817] : Job Queue
+2016-07-19T03:50:48+00:00 DEBUG (7): Job Execution Loop Cancelled - Nothing to do
+2016-07-19T03:50:48+00:00 DEBUG (7): Task Execution Complete [397326817] : Job Queue
+2016-07-19T03:50:48+00:00 DEBUG (7): Task Execution Check [397326817] : Background Mailer
+2016-07-19T03:50:48+00:00 DEBUG (7): Task Execution Pass [397326817] : Background Mailer
+2016-07-19T03:50:48+00:00 DEBUG (7): Task Execution Complete [397326817] : Background Mailer
+2016-07-19T03:50:48+00:00 DEBUG (7): Task Execution Check [397326817] : Member Data Maintenance
+2016-07-19T03:50:48+00:00 DEBUG (7): Task Execution Pass [397326817] : Member Data Maintenance
+2016-07-19T03:50:49+00:00 DEBUG (7): Task Execution Complete [397326817] : Member Data Maintenance
+2016-07-19T03:50:49+00:00 DEBUG (7): Task Execution Check [397326817] : Payment Maintenance
+2016-07-19T03:50:49+00:00 DEBUG (7): Task Execution Pass [397326817] : Payment Maintenance
+2016-07-19T03:50:49+00:00 DEBUG (7): Task Execution Complete [397326817] : Payment Maintenance
+2016-07-19T03:50:49+00:00 DEBUG (7): Execution Complete [397326817] [1016705946]
+2016-07-19T03:50:49+00:00 DEBUG (7): Execution Benchmark [397326817] [1016705946] : 1.421344 seconds
+2016-07-19T03:50:49+00:00 DEBUG (7): Trigger Benchmark [1016705946] : 2.071758 seconds
+2016-07-19T03:53:53+00:00 DEBUG (7): Trigger Check [257458211] 
+2016-07-19T03:53:53+00:00 DEBUG (7): Trigger Pass [257458211] 
+2016-07-19T03:53:53+00:00 DEBUG (7): Execution Check [1552346989] [257458211] 
+2016-07-19T03:53:53+00:00 DEBUG (7): Execution Pass [1552346989] [257458211] 
+2016-07-19T03:53:53+00:00 DEBUG (7): Task Execution Check [1552346989] : Job Queue
+2016-07-19T03:53:54+00:00 DEBUG (7): Task Execution Pass [1552346989] : Job Queue
+2016-07-19T03:53:54+00:00 DEBUG (7): Job Execution Loop Cancelled - Nothing to do
+2016-07-19T03:53:54+00:00 DEBUG (7): Task Execution Complete [1552346989] : Job Queue
+2016-07-19T03:53:54+00:00 DEBUG (7): Task Execution Check [1552346989] : Background Mailer
+2016-07-19T03:53:54+00:00 DEBUG (7): Task Execution Pass [1552346989] : Background Mailer
+2016-07-19T03:53:54+00:00 DEBUG (7): Task Execution Complete [1552346989] : Background Mailer
+2016-07-19T03:53:54+00:00 DEBUG (7): Task Execution Check [1552346989] : Cache Prefetch
+2016-07-19T03:53:54+00:00 DEBUG (7): Task Execution Pass [1552346989] : Cache Prefetch
+2016-07-19T03:53:54+00:00 DEBUG (7): Task Execution Complete [1552346989] : Cache Prefetch
+2016-07-19T03:53:54+00:00 DEBUG (7): Execution Complete [1552346989] [257458211]
+2016-07-19T03:53:54+00:00 DEBUG (7): Execution Benchmark [1552346989] [257458211] : 0.642065 seconds
+2016-07-19T03:53:54+00:00 DEBUG (7): Trigger Benchmark [257458211] : 1.278171 seconds
+2016-07-19T03:54:00+00:00 DEBUG (7): Trigger Check [1876796687] 
+2016-07-19T03:54:00+00:00 DEBUG (7): Trigger Check Failed - Timeout [1876796687] - 1468900440 < 1468900493
+2016-07-19T03:57:04+00:00 DEBUG (7): Trigger Check [1302352196] 
+2016-07-19T03:57:04+00:00 DEBUG (7): Trigger Pass [1302352196] 
+2016-07-19T03:57:05+00:00 DEBUG (7): Execution Check [1087949652] [1302352196] 
+2016-07-19T03:57:05+00:00 DEBUG (7): Execution Pass [1087949652] [1302352196] 
+2016-07-19T03:57:05+00:00 DEBUG (7): Task Execution Check [1087949652] : Job Queue
+2016-07-19T03:57:05+00:00 DEBUG (7): Task Execution Pass [1087949652] : Job Queue
+2016-07-19T03:57:05+00:00 DEBUG (7): Job Execution Loop Cancelled - Nothing to do
+2016-07-19T03:57:05+00:00 DEBUG (7): Task Execution Complete [1087949652] : Job Queue
+2016-07-19T03:57:05+00:00 DEBUG (7): Task Execution Check [1087949652] : Background Mailer
+2016-07-19T03:57:05+00:00 DEBUG (7): Task Execution Pass [1087949652] : Background Mailer
+2016-07-19T03:57:05+00:00 DEBUG (7): Task Execution Complete [1087949652] : Background Mailer
+2016-07-19T03:57:05+00:00 DEBUG (7): Task Execution Check [1087949652] : Member Data Maintenance
+2016-07-19T03:57:05+00:00 DEBUG (7): Task Execution Pass [1087949652] : Member Data Maintenance
+2016-07-19T03:57:05+00:00 DEBUG (7): Task Execution Complete [1087949652] : Member Data Maintenance
+2016-07-19T03:57:05+00:00 DEBUG (7): Execution Complete [1087949652] [1302352196]
+2016-07-19T03:57:05+00:00 DEBUG (7): Execution Benchmark [1087949652] [1302352196] : 0.655719 seconds
+2016-07-19T03:57:06+00:00 DEBUG (7): Trigger Benchmark [1302352196] : 1.292823 seconds
+2016-07-19T03:57:11+00:00 DEBUG (7): Trigger Check [169336550] 
+2016-07-19T03:57:11+00:00 DEBUG (7): Trigger Check Failed - Timeout [169336550] - 1468900631 < 1468900684

@@ -6,11 +6,13 @@
  * modified by @YourNextRead to integrate with goodreads
  */
  
-//require_once('GoodreadsAPI.php');
+define('ROOT_PATH', $_SERVER["DOCUMENT_ROOT"]);
 
+//require_once('GoodreadsAPI.php');
 require_once(ROOT_PATH.'BookMatchMe/application/libraries/Goodreads/GoodreadsAPI.php');
 
 session_start();
+
 if($_SESSION['oauth_token'] !== $_REQUEST['oauth_token'])
 {
   //token expired get a new one. You can clear session over here and redirect user to the login link

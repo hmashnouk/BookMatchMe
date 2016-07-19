@@ -758,8 +758,8 @@ class User_AuthController extends Core_Controller_Action_Standard {
     }
 
     public function goodreadsAction() {
-        
-        require_once('GoodreadsAPI.php');
+              
+        require_once(ROOT_PATH.'BookMatchMe/application/libraries/Goodreads/GoodreadsAPI.php');
 
         $connection = new GoodreadsAPI(CONSUMER_KEY, CONSUMER_SECRET);
         $request_token = $connection->getRequestToken(CALLBACK_URL);
@@ -770,7 +770,7 @@ class User_AuthController extends Core_Controller_Action_Standard {
         $authorize_url = $connection->getLoginURL($request_token);
 
         header("Location: " . $authorize_url);
-        die();
+        exit();
     }
 
     public function twitterAction() {

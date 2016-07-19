@@ -17,6 +17,7 @@ define('_ENGINE_R_BASE', dirname($_SERVER['SCRIPT_NAME']));
 define('_ENGINE_R_FILE', $_SERVER['SCRIPT_NAME']);
 define('_ENGINE_R_REL', 'application');
 define('_ENGINE_R_TARG', 'index.php');
+define('ROOT_PATH', $_SERVER["DOCUMENT_ROOT"]);
 
 // Main
 include dirname(__FILE__) . DIRECTORY_SEPARATOR
